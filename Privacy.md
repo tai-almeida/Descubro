@@ -1,7 +1,7 @@
 # Política de Privacidade/ Privacy Policy
 
 ### Última atualização/ Last Update:
-### 2025
+ 2025
 
 Neste documento, descrevemos como as informações coletadas são protegidas dentro do app Descubro. Este aplicativo respeita a sua privacidade./ In this document, we describe how collected informations are protected within our app Descubro. This app respects your privacy. 
 - Nós **não coletamos, armazenamos ou compartilhamos** nenhuma informação pessoal./ We **do not collect, store, or share** any personal information.
