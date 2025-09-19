@@ -59,7 +59,6 @@ We love hearing ideas from our users! You can also open an "Issue" on GitHub and
 For matters that don't fit the questions above, you can contact us directly:
 
 * **Preferred Method (Bugs & Suggestions):** [**Open an Issue on GitHub**](https://github.com/tai-almeida/Descubro/issues)
-* **Direct Contact:** For personal or urgent matters, please email us at **# Suporte - App Descubro
-
+* **Direct Contact:** For personal or urgent matters, please email us at  **descubro.app@gmail.com**.
 
 Thank you for using Descubro and for helping us build the best tool to explore the world around us!
